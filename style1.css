@@ -1,0 +1,17 @@
+*{
+	font-family: helvetica
+}
+
+
+p, h1 {
+	color: red;
+	font-size: 36px;
+}
+
+
+.paragraph{
+	color: green
+}
+.wrap{
+	color: blue
+}
